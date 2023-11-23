@@ -1,4 +1,4 @@
-const images = ['images/background3.jpg', 'images/background4.jpg', 'images/Laundry-service.jpg']
+const images = ['Images/background3.jpg', 'Images/background4.jpg', 'Images/Laundry-service.jpg']
 const text = [`
             <div class="media"><span class="welcome">Welcome to Mayom Cleaning</span>
             <span class="note">YOUR TRUSTED<span class="bold-note">CLEANING SERVICE PROVIDER</span> </span>
